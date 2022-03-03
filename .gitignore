@@ -1,0 +1,16 @@
+*-cache.lib
+*.bak
+*.kicad_pcb-bak
+Gerber/*.zip
+_saved_*
+*.log
+*.pyc
+_autosave-*
+Gerber*/*.zip
+rescue-backup/
+.mypy_cache/
+python/appconfig.py
+FreeRouting.exe
+M5Stack_FPGA.step
+*.orig
+*.rej
